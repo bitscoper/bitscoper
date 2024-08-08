@@ -1,0 +1,3 @@
+gnu-free-fonts
+kate
+nano
