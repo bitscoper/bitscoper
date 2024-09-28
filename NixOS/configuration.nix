@@ -149,7 +149,6 @@ in
     };
   };
 
-
   virtualisation = {
     libvirtd = {
       enable = true;
