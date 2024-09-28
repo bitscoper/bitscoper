@@ -1060,14 +1060,12 @@ in
       CHROME_EXECUTABLE = "chromium";
     };
     systemPackages = with pkgs; [
-      OVMF
       acl
       adwaita-icon-theme
       adwaita-qt
       adwaita-qt6
       android-studio
       android-tools
-      android-udev-rules
       apostrophe
       arduino
       arduino-cli
@@ -1079,8 +1077,6 @@ in
       audacity
       avahi
       baobab
-      bash
-      bash-completion
       bat
       binary
       bind
@@ -1208,14 +1204,11 @@ in
       gst_all_1.gstreamer
       gtk3
       guestfs-tools
-      gutenprint
       gvfs
       gzip
       hieroglyphic
       icecast
       iftop
-      intel-compute-runtime
-      intel-media-driver
       jdk
       jellyfin
       jellyfin-ffmpeg
@@ -1254,7 +1247,6 @@ in
       luarocks
       luksmeta
       lynis
-      mariadb
       mattermost-desktop
       memcached
       meson
@@ -1264,7 +1256,6 @@ in
       nano
       nanorc
       neofetch
-      neovim
       neovim-remote
       networkmanager
       networkmanagerapplet
@@ -1311,7 +1302,6 @@ in
       podman-tui
       polari
       postfix
-      postgresql
       power-profiles-daemon
       python312Full
       python312Packages.black
@@ -1330,7 +1320,6 @@ in
       rpPPPoE
       rtl-sdr
       rtl-sdr-librtlsdr
-      sambaFull
       sane-backends
       schroedinger
       screen
@@ -1344,7 +1333,6 @@ in
       switcheroo
       swtpm
       sysprof
-      system-config-printer
       telegram-desktop
       thermald
       tk
@@ -1404,7 +1392,6 @@ in
       wpscan
       x264
       x265
-      xdg-desktop-portal-gnome
       xdg-user-dirs
       xdg-utils
       xfsprogs
