@@ -1181,27 +1181,10 @@ in
       gnome-user-share
       gnome-video-effects
       gnome-weather
-      gnome.gvfs
-      gnome.nixos-gsettings-overrides
-      gnomeExtensions.appindicator
-      gnomeExtensions.blur-my-shell
-      gnomeExtensions.clipboard-indicator
-      gnomeExtensions.desktop-cube
-      gnomeExtensions.gsconnect
-      gnomeExtensions.vitals
       gnumake
       gource
       gpredict
       gpsd
-      gst_all_1.gst-editing-services
-      gst_all_1.gst-libav
-      gst_all_1.gst-plugins-bad
-      gst_all_1.gst-plugins-base
-      gst_all_1.gst-plugins-good
-      gst_all_1.gst-plugins-ugly
-      gst_all_1.gst-rtsp-server
-      gst_all_1.gst-vaapi
-      gst_all_1.gstreamer
       gtk3
       guestfs-tools
       gvfs
@@ -1273,28 +1256,6 @@ in
       pcre
       pgadmin4-desktopmode
       php83
-      php83Extensions.calendar
-      php83Extensions.curl
-      php83Extensions.dom
-      php83Extensions.exif
-      php83Extensions.fileinfo
-      php83Extensions.filter
-      php83Extensions.ftp
-      php83Extensions.gd
-      php83Extensions.imap
-      php83Extensions.mbstring
-      php83Extensions.memcached
-      php83Extensions.mysqli
-      php83Extensions.opcache
-      php83Extensions.openssl
-      php83Extensions.pgsql
-      php83Extensions.session
-      php83Extensions.sockets
-      php83Extensions.sodium
-      php83Extensions.xml
-      php83Extensions.xsl
-      php83Extensions.yaml
-      php83Extensions.zip
       pipewire
       pkg-config
       podman
@@ -1304,14 +1265,6 @@ in
       postfix
       power-profiles-daemon
       python312Full
-      python312Packages.black
-      python312Packages.matplotlib
-      python312Packages.numpy
-      python312Packages.pandas
-      python312Packages.pillow
-      python312Packages.pip
-      python312Packages.seaborn
-      python312Packages.tkinter
       qemu_full
       qpwgraph
       raider
@@ -1342,30 +1295,6 @@ in
       transmission_4-gtk
       tree
       tree-sitter
-      tree-sitter-grammars.tree-sitter-bash
-      tree-sitter-grammars.tree-sitter-c
-      tree-sitter-grammars.tree-sitter-cmake
-      tree-sitter-grammars.tree-sitter-comment
-      tree-sitter-grammars.tree-sitter-cpp
-      tree-sitter-grammars.tree-sitter-css
-      tree-sitter-grammars.tree-sitter-dart
-      tree-sitter-grammars.tree-sitter-dockerfile
-      tree-sitter-grammars.tree-sitter-html
-      tree-sitter-grammars.tree-sitter-http
-      tree-sitter-grammars.tree-sitter-javascript
-      tree-sitter-grammars.tree-sitter-json
-      tree-sitter-grammars.tree-sitter-latex
-      tree-sitter-grammars.tree-sitter-lua
-      tree-sitter-grammars.tree-sitter-make
-      tree-sitter-grammars.tree-sitter-markdown
-      tree-sitter-grammars.tree-sitter-markdown-inline
-      tree-sitter-grammars.tree-sitter-nix
-      tree-sitter-grammars.tree-sitter-php
-      tree-sitter-grammars.tree-sitter-python
-      tree-sitter-grammars.tree-sitter-regex
-      tree-sitter-grammars.tree-sitter-sql
-      tree-sitter-grammars.tree-sitter-toml
-      tree-sitter-grammars.tree-sitter-yaml
       ungoogled-chromium
       unicode-emoji
       unrar
@@ -1503,7 +1432,90 @@ in
           }
         ];
       })
-    ];
+    ] ++
+    (with gnome; [
+      gvfs
+      nixos-gsettings-overrides
+    ]) ++
+    (with gnomeExtensions; [
+      appindicator
+      blur-my-shell
+      clipboard-indicator
+      desktop-cube
+      gsconnect
+      vitals
+    ]) ++
+    (with gst_all_1; [
+      gst-editing-services
+      gst-libav
+      gst-plugins-bad
+      gst-plugins-base
+      gst-plugins-good
+      gst-plugins-ugly
+      gst-rtsp-server
+      gst-vaapi
+      gstreamer
+    ]) ++
+    (with php83Extensions; [
+      calendar
+      curl
+      dom
+      exif
+      fileinfo
+      filter
+      ftp
+      gd
+      imap
+      mbstring
+      memcached
+      mysqli
+      opcache
+      openssl
+      pgsql
+      session
+      sockets
+      sodium
+      xml
+      xsl
+      yaml
+      zip
+    ]) ++
+    (with python312Packages; [
+      black
+      matplotlib
+      numpy
+      pandas
+      pillow
+      pip
+      seaborn
+      tkinter
+    ]) ++
+    (with tree-sitter-grammars; [
+      tree-sitter-bash
+      tree-sitter-c
+      tree-sitter-cmake
+      tree-sitter-comment
+      tree-sitter-cpp
+      tree-sitter-css
+      tree-sitter-dart
+      tree-sitter-dockerfile
+      tree-sitter-html
+      tree-sitter-http
+      tree-sitter-javascript
+      tree-sitter-json
+      tree-sitter-latex
+      tree-sitter-lua
+      tree-sitter-make
+      tree-sitter-markdown
+      tree-sitter-markdown-inline
+      tree-sitter-nix
+      tree-sitter-php
+      tree-sitter-python
+      tree-sitter-regex
+      tree-sitter-sql
+      tree-sitter-toml
+      tree-sitter-yaml
+    ]);
     gnome.excludePackages = (with pkgs; [
       gnome-music
       epiphany
@@ -1516,11 +1528,16 @@ in
   fonts = {
     enableDefaultPackages = false;
     packages = with pkgs; [
-      nerdfonts
+      corefonts
+      (nerdfonts.override {
+        fonts = [
+          "Noto"
+        ];
+      })
       noto-fonts
-      noto-fonts-color-emoji
       noto-fonts-cjk-sans
       noto-fonts-cjk-serif
+      noto-fonts-color-emoji
       noto-fonts-lgc-plus
     ];
   };
