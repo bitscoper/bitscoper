@@ -153,7 +153,7 @@ in
     libvirtd = {
       enable = true;
       qemu = {
-        package = pkgs.qemu_kvm;
+        package = pkgs.qemu_full;
         runAsRoot = true;
         swtpm.enable = true;
         ovmf = {
@@ -1264,7 +1264,6 @@ in
       postfix
       power-profiles-daemon
       python312Full
-      qemu_full
       qpwgraph
       raider
       rar
