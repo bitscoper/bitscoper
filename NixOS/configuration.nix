@@ -1311,6 +1311,7 @@ in
       wayland-protocols
       wayland-utils
       wget
+      whatsapp-for-linux
       wireplumber
       wireshark
       wl-clipboard
