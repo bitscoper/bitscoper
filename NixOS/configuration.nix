@@ -582,9 +582,11 @@ in
       shellAliases = {
         one_drive = "onedrive --sync";
         clean_build = "sudo nix-channel --update && sudo nix-env -u --always && sudo rm -rf /nix/var/nix/gcroots/auto/* && sudo nix-collect-garbage -d && nix-collect-garbage -d && sudo nix-store --gc && sudo nixos-rebuild switch --upgrade-all";
+        clean_laboratory_git_repositories = "find ~/Laboratory -type d -name \".git\" -execdir sh -c 'git remote prune origin && git repack && git prune-packed && git gc --aggressive --prune=now' \;";
       };
       loginShellInit = ''
         setfacl --modify user:jellyfin:--x ~
+        gsettings set org.gnome.shell app-picker-layout "[]"
       '';
       shellInit = ''
     '';
@@ -1318,7 +1320,6 @@ in
       wayland-protocols
       wayland-utils
       wget
-      whatsapp-for-linux
       wireplumber
       wireshark
       wl-clipboard
