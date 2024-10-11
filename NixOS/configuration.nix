@@ -7,6 +7,7 @@
 let
   home-manager = builtins.fetchTarball "https://github.com/nix-community/home-manager/archive/refs/heads/master.tar.gz";
   secrets = import ./secrets.nix;
+  existingLibraryPaths = builtins.getEnv "LD_LIBRARY_PATH";
 in
 {
   imports = [
@@ -1062,7 +1063,9 @@ in
   };
 
   environment = {
-    variables = pkgs.lib.mkForce { };
+    variables = pkgs.lib.mkForce {
+      LD_LIBRARY_PATH = "${pkgs.glib.out}/lib/:${pkgs.libGL}/lib/:${pkgs.stdenv.cc.cc.lib}/lib:${existingLibraryPaths}";
+    };
     sessionVariables = {
       NIXOS_OZONE_WL = "1";
       CHROME_EXECUTABLE = "chromium";
@@ -1144,6 +1147,8 @@ in
       git
       git-doc
       gitg
+      glib
+      glibc
       gnome-autoar
       gnome-backgrounds
       gnome-browser-connector
@@ -1212,6 +1217,7 @@ in
       kubernetes
       kubernetes-helm
       letterpress
+      libGL
       libaom
       libappimage
       libde265
