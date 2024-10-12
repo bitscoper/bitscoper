@@ -1079,7 +1079,6 @@ in
       android-tools
       apostrophe
       arduino
-      arduino-cli
       arduino-core
       arduino-ide
       arduino-language-server
