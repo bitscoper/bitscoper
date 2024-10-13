@@ -122,7 +122,7 @@
       <td rowspan="3" align="center">PHP, JavaScript, XHTML, CSS</td>
       <td rowspan="3"></td>
       <td align="center">
-        <a href="https://telechirkut.bitscoper.live/">PWA</a>
+        <a href="https://telechirkut.bitscoper.dev/">PWA</a>
       </td>
     </tr>
     <tr>
