@@ -616,13 +616,6 @@ in
       # defaultEditor = true;
     };
 
-    steam = {
-      enable = true;
-      remotePlay.openFirewall = true;
-      dedicatedServer.openFirewall = true;
-      localNetworkGameTransfers.openFirewall = true;
-    };
-
     dconf = {
       enable = true;
       profiles.user.databases = [
@@ -1267,7 +1260,6 @@ in
       openssh
       paper-clip
       pcre
-      pgadmin4-desktopmode
       php83
       pipewire
       pkg-config
