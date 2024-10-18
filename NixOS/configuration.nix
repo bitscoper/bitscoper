@@ -1232,6 +1232,7 @@ in
       logrotate
       lorem
       loupe
+      lsof
       lua-language-server
       luarocks
       luksmeta
