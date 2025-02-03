@@ -18,10 +18,7 @@
     </tr>
     <tr>
       <th>Server Softwares</th>
-      <td>
-        BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>,
-        Postfix, OpenDKIM, Dovecot, Icecast, MistServer, Jellyfin
-      </td>
+      <td> BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM, Dovecot, Icecast, MistServer, Jellyfin</td>
     </tr>
     <tr>
       <th>Virtualization</th>
@@ -37,8 +34,8 @@
     </tr>
     <tr>
       <th>Linux Distributions</th>
-      <td>AlmaLinux, <a
-          href="https://github.com/bitscoper/Bitscoper_NixOS_Configuration/blob/main/configuration.nix">NixOS</a></td>
+      <td>AlmaLinux, <a href="https://github.com/bitscoper/Bitscoper_NixOS_Configuration/blob/main/configuration.nix">NixOS</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -53,17 +50,12 @@
       <th>Use</th>
     </tr>
     <tr>
-      <th rowspan="4">
+      <th rowspan="5">
         <a href="https://github.com/bitscoper/Bitscoper_Cyber_ToolBox/">Bitscoper Cyber ToolBox</a>
       </th>
-      <td rowspan="4">
-        A Flutter application consisting of TCP Port Scanner, Route Tracer,
-        Pinger, File Hash Calculator, String Hash Calculator, Base Encoder,
-        Morse Code Translator, Open Graph Protocol Data Extractor, Series URI
-        Crawler, DNS Record Retriever, and WHOIS Retriever.
-      </td>
-      <td rowspan="4" align="center">Dart</td>
-      <td rowspan="4" align="center">Flutter</td>
+      <td rowspan="5"> A Flutter application consisting of TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, Base Encoder, Morse Code Translator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, and WHOIS Retriever.</td>
+      <td rowspan="5" align="center">Dart</td>
+      <td rowspan="5" align="center">Flutter</td>
       <td align="center">
         <a href="https://apps.microsoft.com/detail/9n6r5lxczxl6">Microsoft Store</a>
       </td>
@@ -75,8 +67,12 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/bitscoper/Bitscoper_Cyber_ToolBox/pkgs/container/bitscoper_cyber_toolbox/">Docker
-          Images</a>
+        <a href="https://github.com/bitscoper/Bitscoper_Cyber_ToolBox/pkgs/container/bitscoper_cyber_toolbox/">GHCR</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://gallery.ecr.aws/n7r2f3q1/bitscoper/bitscoper_cyber_toolbox">Amazon ECR</a>
       </td>
     </tr>
     <tr>
@@ -116,13 +112,9 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster/">Bitscoper SSTV Icecast
-          Broadcaster</a>
+        <a href="https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster/">Bitscoper SSTV Icecast Broadcaster</a>
       </th>
-      <td>
-        A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through
-        Icecast in Ogg Opus format with dynamic mount points.
-      </td>
+      <td> A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.</td>
       <td align="center">Python</td>
       <td></td>
       <td></td>
