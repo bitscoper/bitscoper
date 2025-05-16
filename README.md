@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <th>Server Softwares</th>
-      <td> BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM, Dovecot, Asterisk - PJSIP, Icecast, MistServer, Jellyfin</td>
+      <td> BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM, Dovecot, MistServer, Jellyfin</td>
     </tr>
     <tr>
       <th>Virtualization</th>
