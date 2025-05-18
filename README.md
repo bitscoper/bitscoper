@@ -7,7 +7,7 @@
   <tbody>
     <tr>
       <th rowspan="2">Languages</th>
-      <td>C, C++, Dart, PHP, JavaScript, Python, Bash, Nix, SQL, XHTML, CSS</td>
+      <td>C, C++, Dart, PHP, JavaScript, Python, Bash, fish, Nix, SQL, XHTML, CSS</td>
     </tr>
     <tr>
       <td>XML, YAML, JSON, TOML</td>
