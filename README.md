@@ -2,7 +2,9 @@
   <h1>Abdullah As-Sadeed</h1>
   bitscoper
 </div>
+
 <br />
+
 <table align="center">
   <tbody>
     <tr>
@@ -18,7 +20,8 @@
     </tr>
     <tr>
       <th>Server Softwares</th>
-      <td> BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM, Dovecot, Icecast, MistServer, motionEye, Jellyfin</td>
+      <td> BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM, Dovecot, Icecast,
+        MistServer, motionEye, Jellyfin</td>
     </tr>
     <tr>
       <th>Virtualization</th>
@@ -34,12 +37,15 @@
     </tr>
     <tr>
       <th>Linux Distributions</th>
-      <td>AlmaLinux, <a href="https://github.com/bitscoper/Bitscoper_NixOS_Configuration/blob/main/configuration.nix">NixOS</a>
+      <td>AlmaLinux, <a
+          href="https://github.com/bitscoper/Bitscoper_NixOS_Configuration/blob/main/configuration.nix">NixOS</a>
       </td>
     </tr>
   </tbody>
 </table>
+
 <hr />
+
 <table align="center">
   <tbody>
     <tr>
@@ -53,7 +59,10 @@
       <th rowspan="5">
         <a href="https://github.com/bitscoper/Bitscoper_Cyber_ToolBox/">Bitscoper Cyber ToolBox</a>
       </th>
-      <td rowspan="5">A Flutter application consisting of IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, Base Encoder, Morse Code Translator, QR Code Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and Wi-Fi Information Viewer.</td>
+      <td rowspan="5">A Flutter application consisting of IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route
+        Tracer, Pinger, File Hash Calculator, String Hash Calculator, Base Encoder, Morse Code Translator, QR Code
+        Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and
+        Wi-Fi Information Viewer.</td>
       <td rowspan="5" align="center">Dart</td>
       <td rowspan="5" align="center">Flutter</td>
       <td align="center">
@@ -112,9 +121,11 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster/">Bitscoper SSTV Icecast Broadcaster</a>
+        <a href="https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster/">Bitscoper SSTV Icecast
+          Broadcaster</a>
       </th>
-      <td> A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.</td>
+      <td> A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality
+        through Icecast in Ogg Opus format with dynamic mount points.</td>
       <td align="center">Python</td>
       <td></td>
       <td></td>
@@ -137,3 +148,9 @@
     </tr>
   </tbody>
 </table>
+
+<hr />
+
+<div align="center">
+  <a href="STARRED.md">Starred Repositories</a>
+</div>
