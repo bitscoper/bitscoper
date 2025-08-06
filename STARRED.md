@@ -54,6 +54,7 @@
 
 ## C 
 
+- [kmod-project/kmod](https://github.com/kmod-project/kmod) - kmod - Linux kernel module handling
 - [xiph/Icecast-Server](https://github.com/xiph/Icecast-Server) - Icecast streaming media server (Mirror) - Please report bugs at https://gitlab.xiph.org/xiph/icecast-server/issues
 - [libmtp/libmtp](https://github.com/libmtp/libmtp) - A library to access MTP (Media Transfer Protocol) Devices.
 - [npitre/cramfs-tools](https://github.com/npitre/cramfs-tools) - Tools to create a cramfs filesystem image
@@ -89,7 +90,6 @@
 - [libass/libass](https://github.com/libass/libass) - libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) - filters, backends, driverless utility, ... - Everything which CUPS 2.x needs to be used on non-Mac systems
-- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [PipeWire/pipewire-jack](https://github.com/PipeWire/pipewire-jack) - JACK client library
 - [PipeWire/pipewire-pulseaudio](https://github.com/PipeWire/pipewire-pulseaudio) - PulseAudio replacement library on top of PipeWire
@@ -473,6 +473,7 @@
 
 ## Python 
 
+- [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [oamg/leapp](https://github.com/oamg/leapp) - Leapp - Application & OS Modernization Framework (For in-place upgrades, follow leapp-repository)
 - [AlmaLinux/mirrors](https://github.com/AlmaLinux/mirrors) - The AlmaLinux project mirrors configuration and tools.
 - [ayasa520/waydroid-helper](https://github.com/ayasa520/waydroid-helper) - 
@@ -547,6 +548,7 @@
 
 ## Rust 
 
+- [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [matkrin/md-lsp](https://github.com/matkrin/md-lsp) - Markdown language server
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
