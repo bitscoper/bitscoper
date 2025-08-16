@@ -42,6 +42,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vue](#vue)
 
 ## Assembly 
 
@@ -193,7 +194,6 @@
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [DDVTECH/mistserver](https://github.com/DDVTECH/mistserver) - The official mistserver source repository - www.mistserver.com
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
-- [isc-projects/bind9](https://github.com/isc-projects/bind9) - Mirror of https://gitlab.isc.org/isc-projects/bind9, please submit issues and PR/MRs in the GitLab. Any issues and PRs opened here will be closed without a comment.
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
@@ -204,6 +204,8 @@
 
 ## C++ 
 
+- [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
+- [bitscoper/Bitscoper_IoT](https://github.com/bitscoper/Bitscoper_IoT) - A versatile Internet of Things project
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [fcitx/fcitx5-gtk](https://github.com/fcitx/fcitx5-gtk) - gtk im module and glib based dbus client library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
@@ -300,6 +302,9 @@
 
 ## Dart 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [bitscoper/Bitscoper_Cyber_ToolBox](https://github.com/bitscoper/Bitscoper_Cyber_ToolBox) - A Flutter application consisting of IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, Base Encoder, Morse Code Translator, QR Cod
+- [BoringExperiments/cvss_vulnerability_scoring](https://github.com/BoringExperiments/cvss_vulnerability_scoring) - 
 - [shpak86/tcp_scanner](https://github.com/shpak86/tcp_scanner) - Ports scanner package
 - [daegalus/dart-uuid](https://github.com/daegalus/dart-uuid) - Generate RFC9562(v1,v4,v5,v6,v7,v8) UUIDs
 - [KINTO-JP/ogp_data_extract](https://github.com/KINTO-JP/ogp_data_extract) - A simple dart library for extracting the Open Graph protocol on a web pages.
@@ -364,6 +369,7 @@
 
 ## HTML 
 
+- [bitscoper/bitscoper.github.io](https://github.com/bitscoper/bitscoper.github.io) - GitHub Pages
 - [AlmaLinux/status.almalinux.org](https://github.com/AlmaLinux/status.almalinux.org) - AlmaLinux Status Page
 - [Digi-Key/digikey-partner-kicad-library](https://github.com/Digi-Key/digikey-partner-kicad-library) - 
 - [thunderbird/fdroid-thunderbird](https://github.com/thunderbird/fdroid-thunderbird) - Thunderbird F-Droid repository
@@ -383,11 +389,12 @@
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [xdsopl/robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## JavaScript 
 
+- [p2r3/beheader](https://github.com/p2r3/beheader) - Polyglot generator for media files
+- [mkaply/queryamoid](https://github.com/mkaply/queryamoid) - Addon for querying the ID of an AMO extension to make it easier to isntall via policy
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
@@ -401,6 +408,9 @@
 
 ## Kotlin 
 
+- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
@@ -418,6 +428,7 @@
 
 ## Nix 
 
+- [bitscoper/Bitscoper_NixOS_Configuration](https://github.com/bitscoper/Bitscoper_NixOS_Configuration) - My NixOS Configuration
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
@@ -436,6 +447,7 @@
 
 ## Others 
 
+- [bitscoper/bitscoper](https://github.com/bitscoper/bitscoper) - GitHub Profile
 - [AlmaLinux/container-images](https://github.com/AlmaLinux/container-images) - 
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -458,6 +470,7 @@
 
 ## PHP 
 
+- [bitscoper/TeleChirkut](https://github.com/bitscoper/TeleChirkut) - A social network, built from scratch, for a better world
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [litespeedtech/lscache_wp](https://github.com/litespeedtech/lscache_wp) - LiteSpeed Cache for WordPress
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
@@ -481,6 +494,7 @@
 
 ## Python 
 
+- [bitscoper/Bitscoper_SSTV_Icecast_Broadcaster](https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster) - A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -511,7 +525,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [pypi/warehouse](https://github.com/pypi/warehouse) - The Python Package Index
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [casterbyte/Above](https://github.com/casterbyte/Above) - Network Security Sniffer
+- [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
@@ -618,6 +632,7 @@
 
 ## TeX 
 
+- [bitscoper/Bitscoper_Resume](https://github.com/bitscoper/Bitscoper_Resume) - Resume of Abdullah As-Sadeed
 - [alobbs/macchanger](https://github.com/alobbs/macchanger) - GNU MAC Changer
 
 ## TypeScript 
@@ -645,6 +660,10 @@
 - [Diego-Ivan/Paper-Clip](https://github.com/Diego-Ivan/Paper-Clip) - Edit PDF document metadata
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [GNOME/dconf-editor](https://github.com/GNOME/dconf-editor) - Read-only mirror of https://gitlab.gnome.org/GNOME/dconf-editor
+
+## Vue 
+
+- [ismartcoding/plain-web](https://github.com/ismartcoding/plain-web) - The web page for PlainApp to manage your phone data.
 
 
 ## License
