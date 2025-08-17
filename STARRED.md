@@ -56,6 +56,10 @@
 
 ## C 
 
+- [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+- [thesofproject/sof](https://github.com/thesofproject/sof) - Sound Open Firmware
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads
 - [Xyce/Xyce](https://github.com/Xyce/Xyce) - The Xyce™ Parallel Electronic Simulator
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
@@ -77,7 +81,6 @@
 - [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 - [greatscottgadgets/libbtbb](https://github.com/greatscottgadgets/libbtbb) - A Bluetooth baseband decoding library
 - [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
-- [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 - [trusteddomainproject/OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC) - This is the Trusted Domain Project's impementation of the DMARC protocol libary and mail filter, called OpenDMARC.  A "milter" connects to unix-based mailers (originally, sendmail, but now many) and p
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
@@ -116,7 +119,6 @@
 - [toasterllc/debase](https://github.com/toasterllc/debase) - drag & drop git editing from the comfort of your terminal
 - [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
 - [kyz/libmspack](https://github.com/kyz/libmspack) - A library for some loosely related Microsoft compression formats, CAB, CHM, HLP, LIT, KWAJ and SZDD.
-- [dbry/WavPack](https://github.com/dbry/WavPack) - WavPack encode/decode library, command-line programs, and several plugins
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
 - [fragglet/lhasa](https://github.com/fragglet/lhasa) - Free Software LHA implementation
@@ -148,7 +150,6 @@
 - [librtlsdr/librtlsdr](https://github.com/librtlsdr/librtlsdr) - Software to turn the RTL2832U into an SDR
 - [intel/libva-utils](https://github.com/intel/libva-utils) - Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
 - [exfatprogs/exfatprogs](https://github.com/exfatprogs/exfatprogs) - exFAT filesystem userspace utilities
-- [knik0/faac](https://github.com/knik0/faac) - Freeware Advanced Audio Coder faac mirror
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
 - [Oblomov/clinfo](https://github.com/Oblomov/clinfo) - Print all known information about all available OpenCL platforms and devices in the system
 - [khvzak/bluez-tools](https://github.com/khvzak/bluez-tools) - A set of tools to manage bluetooth devices for linux
@@ -204,6 +205,8 @@
 
 ## C++ 
 
+- [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [bitscoper/Bitscoper_IoT](https://github.com/bitscoper/Bitscoper_IoT) - A versatile Internet of Things project
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
@@ -236,9 +239,7 @@
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
-- [mikebrady/alac](https://github.com/mikebrady/alac) - Apple Lossless Codec and Utility with Autotools
 - [google/woff2](https://github.com/google/woff2) - 
-- [richgel999/lzham_codec](https://github.com/richgel999/lzham_codec) - Lossless data compression codec with LZMA-like ratios but 1.5x-8x faster decompression speed, C/C++
 - [Grumbel/evtest-qt](https://github.com/Grumbel/evtest-qt) - Linux Joystick Tester for Qt
 - [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) - This is the development tree. Production downloads are at:
 - [sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit) - The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital
@@ -248,7 +249,6 @@
 - [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
-- [johang/vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [AppImageCommunity/libappimage](https://github.com/AppImageCommunity/libappimage) - Implements functionality for dealing with AppImage files
@@ -348,6 +348,15 @@
 
 ## Go 
 
+- [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe) - A fast WordPress plugin enumeration tool
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+- [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
@@ -461,7 +470,6 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [arduino/library-registry](https://github.com/arduino/library-registry) - The Arduino Library Manager Registry
-- [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [localsend/protocol](https://github.com/localsend/protocol) - The LocalSend REST API
 - [helsinki-systems/plymouth-theme-nixos-bgrt](https://github.com/helsinki-systems/plymouth-theme-nixos-bgrt) - 
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
@@ -494,6 +502,8 @@
 
 ## Python 
 
+- [za3k/qr-backup](https://github.com/za3k/qr-backup) - Paper backup of files using QR codes
+- [zefr0x/hashes](https://github.com/zefr0x/hashes) - Simple hash algorithm identification GUI using GTK4+Adwaita.
 - [bitscoper/Bitscoper_SSTV_Icecast_Broadcaster](https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster) - A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
@@ -532,8 +542,6 @@
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks ag
 - [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
-- [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX/ typst graphics for Inkscape
-- [Klowner/inkscape-applytransforms](https://github.com/Klowner/inkscape-applytransforms) - An Inkscape extension which removes all matrix transforms by applying them recursively to shapes
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
@@ -597,10 +605,8 @@
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [MintArchit/gh-contribs](https://github.com/MintArchit/gh-contribs) - GitHub Contribution Graph CLI
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
-- [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [osmanfc/olspanel](https://github.com/osmanfc/olspanel) - Free Openlitespeed webhost controll panel. Install few click
-- [gradle/gradle-completion](https://github.com/gradle/gradle-completion) - Gradle tab completion for bash and zsh
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [AlmaLinux/almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) - EL to AlmaLinux migration tool.
@@ -616,7 +622,6 @@
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
-- [hedning/nix-bash-completions](https://github.com/hedning/nix-bash-completions) - Bash completion for the Nix command line tools
 - [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
 - [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it into a community-maintained catalog
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
