@@ -502,6 +502,7 @@
 
 ## Python 
 
+- [seppeljordan/nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool
 - [za3k/qr-backup](https://github.com/za3k/qr-backup) - Paper backup of files using QR codes
 - [zefr0x/hashes](https://github.com/zefr0x/hashes) - Simple hash algorithm identification GUI using GTK4+Adwaita.
 - [bitscoper/Bitscoper_SSTV_Icecast_Broadcaster](https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster) - A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.
@@ -575,12 +576,14 @@
 
 ## Ruby 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [AlmaLinux/sig-livemedia](https://github.com/AlmaLinux/sig-livemedia) - AlmaLinux SIG/Live-media
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [matkrin/md-lsp](https://github.com/matkrin/md-lsp) - Markdown language server
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
