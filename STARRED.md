@@ -502,6 +502,7 @@
 
 ## Python 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [seppeljordan/nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool
 - [za3k/qr-backup](https://github.com/za3k/qr-backup) - Paper backup of files using QR codes
 - [zefr0x/hashes](https://github.com/zefr0x/hashes) - Simple hash algorithm identification GUI using GTK4+Adwaita.
@@ -511,7 +512,7 @@
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [oamg/leapp](https://github.com/oamg/leapp) - Leapp - Application & OS Modernization Framework (For in-place upgrades, follow leapp-repository)
 - [AlmaLinux/mirrors](https://github.com/AlmaLinux/mirrors) - The AlmaLinux project mirrors configuration and tools.
-- [ayasa520/waydroid-helper](https://github.com/ayasa520/waydroid-helper) - 
+- [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [yaqwsx/KiKit](https://github.com/yaqwsx/KiKit) - Automation tools for KiCAD
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
@@ -609,7 +610,6 @@
 - [MintArchit/gh-contribs](https://github.com/MintArchit/gh-contribs) - GitHub Contribution Graph CLI
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
-- [osmanfc/olspanel](https://github.com/osmanfc/olspanel) - Free Openlitespeed webhost controll panel. Install few click
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [AlmaLinux/almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) - EL to AlmaLinux migration tool.
