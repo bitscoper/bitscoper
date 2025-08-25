@@ -20,8 +20,9 @@
     </tr>
     <tr>
       <th>Server Softwares</th>
-      <td> BIND 9, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM, Dovecot, Icecast,
-        MistServer, motionEye, Jellyfin</td>
+      <td> BIND, Apache HTTP Server, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM,
+        Dovecot, Icecast,
+        MistServer, motionEye, Jellyfin, ISPConfig</td>
     </tr>
     <tr>
       <th>Virtualization</th>
@@ -37,8 +38,8 @@
     </tr>
     <tr>
       <th>Linux Distributions</th>
-      <td>AlmaLinux, <a
-          href="https://github.com/bitscoper/Bitscoper_NixOS_Configuration/blob/main/configuration.nix">NixOS</a>
+      <td><a href="https://github.com/bitscoper/Bitscoper_NixOS_Configuration/blob/main/configuration.nix">NixOS</a>,
+        AlmaLinux, Debian
       </td>
     </tr>
   </tbody>
