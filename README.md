@@ -21,8 +21,7 @@
     <tr>
       <th>Server Softwares</th>
       <td> BIND, Apache HTTP Server, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM,
-        Dovecot, Icecast,
-        MistServer, motionEye, Jellyfin, ISPConfig</td>
+        Dovecot, Icecast, MistServer, motionEye, Jellyfin, Cockpit, ISPConfig</td>
     </tr>
     <tr>
       <th>Virtualization</th>
