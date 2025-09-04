@@ -21,7 +21,7 @@
     <tr>
       <th>Server Softwares</th>
       <td> BIND, Apache HTTP Server, OpenLiteSpeed Web Server, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM,
-        Dovecot, Icecast, MistServer, motionEye, Jellyfin, Cockpit, ISPConfig</td>
+        Dovecot, Ollama, Icecast, MistServer, motionEye, Jellyfin, Cockpit, ISPConfig</td>
     </tr>
     <tr>
       <th>Virtualization</th>
@@ -93,7 +93,7 @@
       <th>
         <a href="https://github.com/bitscoper/Bitscoper_IoT/">Bitscoper IoT</a>
       </th>
-      <td>A versatile Internet of Things project</td>
+      <td>A versatile Internet of Things project (conversion to an AI agent is in progress).</td>
       <td align="center">C, JavaScript, XHTML, CSS</td>
       <td align="center">Arduino (ESP32)</td>
       <td></td>
@@ -102,7 +102,7 @@
       <th rowspan="3">
         <a href="https://github.com/bitscoper/TeleChirkut/">TeleChirkut</a>
       </th>
-      <td rowspan="3">A social network, built from scratch, for a better world</td>
+      <td rowspan="3">A social network, built from scratch, for a better world.</td>
       <td rowspan="3" align="center">PHP, JavaScript, XHTML, CSS</td>
       <td rowspan="3"></td>
       <td align="center">
