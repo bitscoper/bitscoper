@@ -56,17 +56,18 @@
 
 ## C 
 
+- [libmtp/libmtp](https://github.com/libmtp/libmtp) - A library to access MTP (Media Transfer Protocol) Devices.
+- [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
+- [Tomas-M/iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [thesofproject/sof](https://github.com/thesofproject/sof) - Sound Open Firmware
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads
-- [Xyce/Xyce](https://github.com/Xyce/Xyce) - The Xyce™ Parallel Electronic Simulator
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [nhorman/dropwatch](https://github.com/nhorman/dropwatch) - user space utility to interface to kernel dropwatch facility
 - [kmod-project/kmod](https://github.com/kmod-project/kmod) - kmod - Linux kernel module handling
 - [xiph/Icecast-Server](https://github.com/xiph/Icecast-Server) - Icecast streaming media server (Mirror) - Please report bugs at https://gitlab.xiph.org/xiph/icecast-server/issues
-- [libmtp/libmtp](https://github.com/libmtp/libmtp) - A library to access MTP (Media Transfer Protocol) Devices.
 - [npitre/cramfs-tools](https://github.com/npitre/cramfs-tools) - Tools to create a cramfs filesystem image
 - [linux-apfs/apfsprogs](https://github.com/linux-apfs/apfsprogs) - Experimental APFS tools for linux
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -79,8 +80,6 @@
 - [jjsullivan5196/wvkbd](https://github.com/jjsullivan5196/wvkbd) - On-screen keyboard for wlroots
 - [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools) - The source repository for the Trusted Platform Module (TPM2.0) tools
 - [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
-- [greatscottgadgets/libbtbb](https://github.com/greatscottgadgets/libbtbb) - A Bluetooth baseband decoding library
-- [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [trusteddomainproject/OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC) - This is the Trusted Domain Project's impementation of the DMARC protocol libary and mail filter, called OpenDMARC.  A "milter" connects to unix-based mailers (originally, sendmail, but now many) and p
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
@@ -91,11 +90,9 @@
 - [GNOME/gnome-disk-utility](https://github.com/GNOME/gnome-disk-utility) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-disk-utility
 - [GNOME/gnome-keyring](https://github.com/GNOME/gnome-keyring) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-keyring
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
-- [nfc-tools/libfreefare](https://github.com/nfc-tools/libfreefare) - A convenience API for NFC cards manipulations on top of libnfc.
 - [nfc-tools/mfcuk](https://github.com/nfc-tools/mfcuk) - MiFare Classic Universal toolKit (MFCUK)
 - [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc) - Mifare Classic Offline Cracker
 - [GNOME/file-roller](https://github.com/GNOME/file-roller) - Read-only mirror of https://gitlab.gnome.org/GNOME/file-roller
-- [libass/libass](https://github.com/libass/libass) - libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) - filters, backends, driverless utility, ... - Everything which CUPS 2.x needs to be used on non-Mac systems
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -108,16 +105,12 @@
 - [GStreamer/gstreamer-vaapi](https://github.com/GStreamer/gstreamer-vaapi) - Hardware-accelerated video decoding, encoding and processing on Intel graphics through VA-API. This module has been merged into the main GStreamer repo for further development.
 - [GStreamer/gst-plugins-bad](https://github.com/GStreamer/gst-plugins-bad) - 'Bad' GStreamer plugins and helper libraries. This module has been merged into the main GStreamer repo for further development.
 - [GStreamer/gst-plugins-good](https://github.com/GStreamer/gst-plugins-good) - 'Good' GStreamer plugins and helper libraries. This module has been merged into the main GStreamer repo for further development.
-- [libvirt/libvirt-dbus](https://github.com/libvirt/libvirt-dbus) - Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt-dbus
-- [regularhunter/libfreeaptx](https://github.com/regularhunter/libfreeaptx) - Free implementation of Audio Processing Technology codec (aptX) forked from libopenaptx 0.2.0
-- [google/liblc3](https://github.com/google/liblc3) - 
 - [uclouvain/openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
 - [TimothyGu/libilbc](https://github.com/TimothyGu/libilbc) - Packaged version of iLBC codec from the WebRTC project
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [toasterllc/debase](https://github.com/toasterllc/debase) - drag & drop git editing from the comfort of your terminal
 - [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
-- [kyz/libmspack](https://github.com/kyz/libmspack) - A library for some loosely related Microsoft compression formats, CAB, CHM, HLP, LIT, KWAJ and SZDD.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
 - [fragglet/lhasa](https://github.com/fragglet/lhasa) - Free Software LHA implementation
@@ -146,7 +139,6 @@
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
 - [intel/media-driver](https://github.com/intel/media-driver) - Intel Graphics Media Driver to support hardware decode, encode and video processing.
 - [dfskoll/rp-pppoe](https://github.com/dfskoll/rp-pppoe) - Public repository for RP-PPPoE PPPoE client and server software
-- [librtlsdr/librtlsdr](https://github.com/librtlsdr/librtlsdr) - Software to turn the RTL2832U into an SDR
 - [intel/libva-utils](https://github.com/intel/libva-utils) - Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
 - [exfatprogs/exfatprogs](https://github.com/exfatprogs/exfatprogs) - exFAT filesystem userspace utilities
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
@@ -177,7 +169,6 @@
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) - A low-level tool to generate an AppImage from an existing AppDir
-- [libguestfs/libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS.  See the website for how to file a bug or contact us.
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
@@ -204,19 +195,19 @@
 
 ## C++ 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
-- [bitscoper/Bitscoper_IoT](https://github.com/bitscoper/Bitscoper_IoT) - A versatile Internet of Things project
+- [bitscoper/Bitscoper_IoT](https://github.com/bitscoper/Bitscoper_IoT) - A versatile Internet of Things project (conversion to an AI agent is in progress).
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [fcitx/fcitx5-gtk](https://github.com/fcitx/fcitx5-gtk) - gtk im module and glib based dbus client library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [sandsmark/selectdefaultapplication](https://github.com/sandsmark/selectdefaultapplication) - an ugly hack to be able to select default applications in linux in a better way
-- [LibRaw/LibRaw](https://github.com/LibRaw/LibRaw) - LibRaw is a library for reading RAW files from digital cameras
-- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
@@ -251,8 +242,6 @@
 - [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
-- [AppImageCommunity/libappimage](https://github.com/AppImageCommunity/libappimage) - Implements functionality for dealing with AppImage files
-- [strukturag/libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation.
 - [aguinet/usbtop](https://github.com/aguinet/usbtop) - usbtop is a top-like utility that shows an estimated instantaneous bandwidth on USB buses and devices.
 - [openwall/johnny](https://github.com/openwall/johnny) - GUI frontend to John the Ripper password cracker
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
@@ -349,6 +338,7 @@
 
 ## Go 
 
+- [google/addlicense](https://github.com/google/addlicense) - A program which ensures source code files have copyright license headers by scanning directory patterns recursively
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe) - A fast WordPress plugin enumeration tool
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -380,6 +370,8 @@
 
 ## HTML 
 
+- [w3c/png](https://github.com/w3c/png) - Maintenance of the PNG specification
+- [w3c/manifest](https://github.com/w3c/manifest) - Manifest for web apps
 - [bitscoper/bitscoper.github.io](https://github.com/bitscoper/bitscoper.github.io) - GitHub Pages
 - [AlmaLinux/status.almalinux.org](https://github.com/AlmaLinux/status.almalinux.org) - AlmaLinux Status Page
 - [Digi-Key/digikey-partner-kicad-library](https://github.com/Digi-Key/digikey-partner-kicad-library) - 
@@ -460,6 +452,10 @@
 
 ## Others 
 
+- [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
+- [litespeedrepo/rpm-lsphp](https://github.com/litespeedrepo/rpm-lsphp) - 
+- [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
+- [ValveSoftware/steam-devices](https://github.com/ValveSoftware/steam-devices) - List of devices Steam and SteamVR will want read/write permissions on, to help downstream distributions create udev rules/etc
 - [bitscoper/bitscoper](https://github.com/bitscoper/bitscoper) - GitHub Profile
 - [AlmaLinux/container-images](https://github.com/AlmaLinux/container-images) - 
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
@@ -506,6 +502,7 @@
 
 ## Python 
 
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [seppeljordan/nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool
 - [za3k/qr-backup](https://github.com/za3k/qr-backup) - Paper backup of files using QR codes
@@ -524,7 +521,6 @@
 - [sdushantha/fileinfo](https://github.com/sdushantha/fileinfo) - 📄Get information on over 10,000 file extensions right from the terminal
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [cisagov/trustymail](https://github.com/cisagov/trustymail) - Scan domains and return data based on trustworthy email best practices
@@ -560,7 +556,6 @@
 - [platformio/platform-atmelavr](https://github.com/platformio/platform-atmelavr) - Atmel AVR: development platform for PlatformIO
 - [platformio/platform-espressif32](https://github.com/platformio/platform-espressif32) - Espressif 32: development platform for PlatformIO
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
-- [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -584,7 +579,6 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [AlmaLinux/sig-livemedia](https://github.com/AlmaLinux/sig-livemedia) - AlmaLinux SIG/Live-media
-- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## Rust 
 
