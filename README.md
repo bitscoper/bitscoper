@@ -59,10 +59,10 @@
       <th rowspan="5">
         <a href="https://github.com/bitscoper/Bitscoper_Cyber_ToolBox/">Bitscoper Cyber ToolBox</a>
       </th>
-      <td rowspan="5">A Flutter application consisting of IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route
-        Tracer, Pinger, File Hash Calculator, String Hash Calculator, Base Encoder, Morse Code Translator, QR Code
-        Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and
-        Wi-Fi Information Viewer.</td>
+      <td rowspan="5">A Flutter application offering IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer,
+        Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR
+        Code Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever,
+        and Wi-Fi Information Viewer.</td>
       <td rowspan="5" align="center">Dart</td>
       <td rowspan="5" align="center">Flutter</td>
       <td align="center">

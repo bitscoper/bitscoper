@@ -138,7 +138,6 @@
 - [GNOME/gnome-font-viewer](https://github.com/GNOME/gnome-font-viewer) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-font-viewer
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
 - [intel/media-driver](https://github.com/intel/media-driver) - Intel Graphics Media Driver to support hardware decode, encode and video processing.
-- [dfskoll/rp-pppoe](https://github.com/dfskoll/rp-pppoe) - Public repository for RP-PPPoE PPPoE client and server software
 - [intel/libva-utils](https://github.com/intel/libva-utils) - Libva-utils is a collection of tests for VA-API (VIdeo Acceleration API)
 - [exfatprogs/exfatprogs](https://github.com/exfatprogs/exfatprogs) - exFAT filesystem userspace utilities
 - [alexivkin/CUPS-PDF-to-PDF](https://github.com/alexivkin/CUPS-PDF-to-PDF) - CUPS-PDF with a patch to print text correctly
@@ -190,6 +189,7 @@
 
 ## C# # 
 
+- [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
@@ -200,7 +200,6 @@
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
-- [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [bitscoper/Bitscoper_IoT](https://github.com/bitscoper/Bitscoper_IoT) - A versatile Internet of Things project (conversion to an AI agent is in progress).
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [fcitx/fcitx5-gtk](https://github.com/fcitx/fcitx5-gtk) - gtk im module and glib based dbus client library
@@ -211,7 +210,6 @@
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
@@ -292,7 +290,7 @@
 ## Dart 
 
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-- [bitscoper/Bitscoper_Cyber_ToolBox](https://github.com/bitscoper/Bitscoper_Cyber_ToolBox) - A Flutter application consisting of IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, Base Encoder, Morse Code Translator, QR Cod
+- [bitscoper/Bitscoper_Cyber_ToolBox](https://github.com/bitscoper/Bitscoper_Cyber_ToolBox) - A Flutter application offering IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR Code Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and Wi-Fi Information Viewer.
 - [BoringExperiments/cvss_vulnerability_scoring](https://github.com/BoringExperiments/cvss_vulnerability_scoring) - 
 - [shpak86/tcp_scanner](https://github.com/shpak86/tcp_scanner) - Ports scanner package
 - [daegalus/dart-uuid](https://github.com/daegalus/dart-uuid) - Generate RFC9562(v1,v4,v5,v6,v7,v8) UUIDs
@@ -582,6 +580,7 @@
 
 ## Rust 
 
+- [nik-rev/ferrishot](https://github.com/nik-rev/ferrishot) - A powerful screenshot app written in Rust 📸🦀
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [matkrin/md-lsp](https://github.com/matkrin/md-lsp) - Markdown language server
