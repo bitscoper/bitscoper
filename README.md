@@ -66,7 +66,7 @@
       <td rowspan="5" align="center">Dart</td>
       <td rowspan="5" align="center">Flutter</td>
       <td align="center">
-        <a href="https://apps.microsoft.com/detail/9n6r5lxczxl6">Microsoft Store</a>
+        <a href="https://apps.microsoft.com/detail/9mv2046tz302">Microsoft Store</a>
       </td>
     </tr>
     <tr>
