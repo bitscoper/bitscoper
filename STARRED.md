@@ -13,9 +13,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Crystal](#crystal)
-- [D](#d)
 - [Dart](#dart)
-- [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -37,7 +35,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
-- [SmPL](#smpl)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -47,15 +44,15 @@
 ## Assembly 
 
 - [fwupd/fwupd-efi](https://github.com/fwupd/fwupd-efi) - EFI Application used by uefi-capsule plugin in fwupd
-- [videolan/dav1d](https://github.com/videolan/dav1d) - A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/
 - [videolan/x265](https://github.com/videolan/x265) - https://bitbucket.org/multicoreware/x265/ git mirror
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
+- [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 - [libmtp/libmtp](https://github.com/libmtp/libmtp) - A library to access MTP (Media Transfer Protocol) Devices.
 - [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
@@ -72,17 +69,12 @@
 - [linux-apfs/apfsprogs](https://github.com/linux-apfs/apfsprogs) - Experimental APFS tools for linux
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [openafs/openafs](https://github.com/openafs/openafs) - Fork of OpenAFS from git.openafs.org for visualization
-- [cryptodev-linux/cryptodev-linux](https://github.com/cryptodev-linux/cryptodev-linux) - Cryptodev-linux is a Linux-kernel device that allows user-space access to hardware cryptographic accelerators.
 - [linux-apfs/linux-apfs-rw](https://github.com/linux-apfs/linux-apfs-rw) - APFS module for linux, with experimental write support
-- [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null
 - [nix-community/acpi_call](https://github.com/nix-community/acpi_call) - A linux kernel module that enables calls to ACPI methods through /proc/acpi/call. [maintainer=@teleshoes /@Mic92]
-- [gnif/vendor-reset](https://github.com/gnif/vendor-reset) - Linux kernel vendor specific hardware reset module for sequences that are too complex/complicated to land in pci_quirks.c
-- [jjsullivan5196/wvkbd](https://github.com/jjsullivan5196/wvkbd) - On-screen keyboard for wlroots
 - [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools) - The source repository for the Trusted Platform Module (TPM2.0) tools
 - [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 - [trusteddomainproject/OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC) - This is the Trusted Domain Project's impementation of the DMARC protocol libary and mail filter, called OpenDMARC.  A "milter" connects to unix-based mailers (originally, sendmail, but now many) and p
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-- [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [trusteddomainproject/OpenDKIM](https://github.com/trusteddomainproject/OpenDKIM) - 
 - [polkit-org/polkit](https://github.com/polkit-org/polkit) - polkit (formerly PolicyKit) is a toolkit for defining and handling authorizations. It is used for allowing unprivileged processes to speak to privileged processes.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -105,22 +97,11 @@
 - [GStreamer/gstreamer-vaapi](https://github.com/GStreamer/gstreamer-vaapi) - Hardware-accelerated video decoding, encoding and processing on Intel graphics through VA-API. This module has been merged into the main GStreamer repo for further development.
 - [GStreamer/gst-plugins-bad](https://github.com/GStreamer/gst-plugins-bad) - 'Bad' GStreamer plugins and helper libraries. This module has been merged into the main GStreamer repo for further development.
 - [GStreamer/gst-plugins-good](https://github.com/GStreamer/gst-plugins-good) - 'Good' GStreamer plugins and helper libraries. This module has been merged into the main GStreamer repo for further development.
-- [uclouvain/openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
-- [TimothyGu/libilbc](https://github.com/TimothyGu/libilbc) - Packaged version of iLBC codec from the WebRTC project
-- [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
-- [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [toasterllc/debase](https://github.com/toasterllc/debase) - drag & drop git editing from the comfort of your terminal
-- [iczelia/bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
-- [fragglet/lhasa](https://github.com/fragglet/lhasa) - Free Software LHA implementation
-- [jca02266/lha](https://github.com/jca02266/lha) - LHa for UNIX - Note: This software is licensed under the ORIGINAL LICENSE. It is written in man/lha.n in Japanese(Translated: &lt;https://packages.debian.org/changelogs/pool/non-free/l/lha/current/cop
 - [GNOME/nautilus](https://github.com/GNOME/nautilus) - Read-only mirror of https://gitlab.gnome.org/GNOME/nautilus
 - [mirror/dmidecode](https://github.com/mirror/dmidecode) - dmidecode mirror
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
-- [p7zip-project/p7zip](https://github.com/p7zip-project/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
-- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
 - [GNOME/gtk](https://github.com/GNOME/gtk) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
@@ -149,7 +130,6 @@
 - [Lekensteyn/dmg2img](https://github.com/Lekensteyn/dmg2img) - DMG2IMG allows you to convert a (compressed) Apple Disk Images (imported from http://vu1tur.eu.org/dmg2img). Note: the master branch contains imported code, but lacks bugfixes/features from the develo
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentatio
-- [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 - [pciutils/pciutils](https://github.com/pciutils/pciutils) - The PCI Utilities
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
@@ -180,7 +160,6 @@
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg) - FFmpeg for Jellyfin with custom extensions and enhancements
-- [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [DDVTECH/mistserver](https://github.com/DDVTECH/mistserver) - The official mistserver source repository - www.mistserver.com
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
@@ -196,31 +175,15 @@
 ## C++ 
 
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
-- [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [bitscoper/Bitscoper_IoT](https://github.com/bitscoper/Bitscoper_IoT) - A versatile Internet of Things project (conversion to an AI agent is in progress).
-- [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
-- [fcitx/fcitx5-gtk](https://github.com/fcitx/fcitx5-gtk) - gtk im module and glib based dbus client library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [sandsmark/selectdefaultapplication](https://github.com/sandsmark/selectdefaultapplication) - an ugly hack to be able to select default applications in linux in a better way
-- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
-- [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display
-- [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable,
-- [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
-- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -232,14 +195,13 @@
 - [Grumbel/evtest-qt](https://github.com/Grumbel/evtest-qt) - Linux Joystick Tester for Qt
 - [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) - This is the development tree. Production downloads are at:
 - [sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit) - The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital
-- [Aitum/obs-vertical-canvas](https://github.com/Aitum/obs-vertical-canvas) - 
 - [exeldro/obs-transition-table](https://github.com/exeldro/obs-transition-table) - 
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [intel/compute-runtime](https://github.com/intel/compute-runtime) - Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a library and a set of command-line programs providing a simple interface to inotify.
 - [aguinet/usbtop](https://github.com/aguinet/usbtop) - usbtop is a top-like utility that shows an estimated instantaneous bandwidth on USB buses and devices.
 - [openwall/johnny](https://github.com/openwall/johnny) - GUI frontend to John the Ripper password cracker
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
@@ -249,10 +211,8 @@
 - [adafruit/Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO) - Arduino library for I2C & SPI abstractions
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
-- [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
-- [rncbc/qpwgraph](https://github.com/rncbc/qpwgraph) - qpwgraph - A PipeWire Graph Qt GUI Interface
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [johnrickman/LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C) - LiquidCrystal Arduino library for the DFRobot I2C LCD displays
 - [claws/BH1750](https://github.com/claws/BH1750) - An Arduino library for the digital light sensor breakout boards containing the BH1750FVI IC
@@ -283,14 +243,11 @@
 
 - [GeopJr/Collision](https://github.com/GeopJr/Collision) - Check hashes for your files - A GUI tool to generate, compare and verify MD5, SHA-1, SHA-256, SHA-512, Blake3, CRC32 & Adler32 hashes.
 
-## D 
-
-- [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-
 ## Dart 
 
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-- [bitscoper/Bitscoper_CyberKit](https://github.com/bitscoper/Bitscoper_CyberKit/) - A Flutter application offering IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR Code Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and Wi-Fi Information Viewer.
+- [ferraridamiano/ConverterNOW](https://github.com/ferraridamiano/ConverterNOW) - The Unit Converter app: easy, immediate and multi-platform
+- [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
+- [bitscoper/Bitscoper_CyberKit](https://github.com/bitscoper/Bitscoper_CyberKit) - A Flutter application offering IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer, Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Transl
 - [BoringExperiments/cvss_vulnerability_scoring](https://github.com/BoringExperiments/cvss_vulnerability_scoring) - 
 - [shpak86/tcp_scanner](https://github.com/shpak86/tcp_scanner) - Ports scanner package
 - [daegalus/dart-uuid](https://github.com/daegalus/dart-uuid) - Generate RFC9562(v1,v4,v5,v6,v7,v8) UUIDs
@@ -325,25 +282,20 @@
 - [jonbhanson/flutter_native_splash](https://github.com/jonbhanson/flutter_native_splash) - Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-## Dockerfile 
-
-- [AlmaLinux/bootc-images-rpi](https://github.com/AlmaLinux/bootc-images-rpi) - 
-- [AlmaLinux/wiki](https://github.com/AlmaLinux/wiki) - The AlmaLinux project documentation.
-
 ## Elm 
 
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 
 ## Go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [google/addlicense](https://github.com/google/addlicense) - A program which ensures source code files have copyright license headers by scanning directory patterns recursively
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe) - A fast WordPress plugin enumeration tool
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
-- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
@@ -353,12 +305,10 @@
 - [arduino/arduino-language-server](https://github.com/arduino/arduino-language-server) - An Arduino Language Server based on Clangd to Arduino code autocompletion
 - [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 
@@ -370,20 +320,28 @@
 
 - [w3c/png](https://github.com/w3c/png) - Maintenance of the PNG specification
 - [w3c/manifest](https://github.com/w3c/manifest) - Manifest for web apps
-- [bitscoper/bitscoper.github.io](https://github.com/bitscoper/bitscoper.github.io) - GitHub Pages
-- [AlmaLinux/status.almalinux.org](https://github.com/AlmaLinux/status.almalinux.org) - AlmaLinux Status Page
 - [Digi-Key/digikey-partner-kicad-library](https://github.com/Digi-Key/digikey-partner-kicad-library) - 
 - [thunderbird/fdroid-thunderbird](https://github.com/thunderbird/fdroid-thunderbird) - Thunderbird F-Droid repository
 - [AlmaLinux/almalinux.org](https://github.com/AlmaLinux/almalinux.org) - almalinux.org official web site sources.
 
 ## Haskell 
 
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 
 ## Java 
 
-- [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
+- [SecUSo/privacy-friendly-ruler](https://github.com/SecUSo/privacy-friendly-ruler) - Privacy Friendly Apps to display a ruler on Android devices.
+- [christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey) - Cellular Survey Android App
+- [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+- [woheller69/audio-analyzer-for-android](https://github.com/woheller69/audio-analyzer-for-android) - A fork of audio-analyzer-for-android in Google code, with a lot of enhancement.
+- [billthefarmer/sig-gen](https://github.com/billthefarmer/sig-gen) - Android Signal Generator
+- [junjunguo/PocketMaps](https://github.com/junjunguo/PocketMaps) - Free offline maps with routing functions and more ...
+- [alt236/USB-Device-Info---Android](https://github.com/alt236/USB-Device-Info---Android) - This application will provide information about almost all currently plugged-in USB devices.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [olgamiller/SSTVEncoder2](https://github.com/olgamiller/SSTVEncoder2) - Send images via SSTV
+- [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
+- [exbin/bined-android](https://github.com/exbin/bined-android) - BinEd Hex Editor for Android
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investiga
@@ -396,14 +354,13 @@
 
 ## JavaScript 
 
-- [p2r3/beheader](https://github.com/p2r3/beheader) - Polyglot generator for media files
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [mkaply/queryamoid](https://github.com/mkaply/queryamoid) - Addon for querying the ID of an AMO extension to make it easier to isntall via policy
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [cockpit-project/cockpit-podman](https://github.com/cockpit-project/cockpit-podman) - Cockpit UI for podman containers
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - The Free Software Media System - Official Web Client
@@ -411,18 +368,38 @@
 
 ## Kotlin 
 
-- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
+- [JackEblan/Geto](https://github.com/JackEblan/Geto) - Apply device settings to your apps. This multi-modular Android project is structured following Uncle Bob's Clean Architecture principles and Now in Android sample app
+- [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
+- [jonathanklee/VolumeLockr](https://github.com/jonathanklee/VolumeLockr) - Android volume locker
+- [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
+- [RomanK2311/Permissions-Summary](https://github.com/RomanK2311/Permissions-Summary) - Android App To List Important Permissions
+- [JairajJangle/motioneye-android](https://github.com/JairajJangle/motioneye-android) - motionEye Android app - available on Google Play Store and F-Droid
+- [onionshare/onionshare-android](https://github.com/onionshare/onionshare-android) - Android version of OnionShare
+- [mrahimygk/conceal](https://github.com/mrahimygk/conceal) - Concealing WAVE audio files inside images
+- [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
+- [scovillo/playondlna](https://github.com/scovillo/playondlna) - Play Youtube videos ad-free on any DLNA devices (e.g. Kodi, SmartTVs) in your local network!
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
+- [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
+- [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
+- [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+- [FossifyOrg/Paint](https://github.com/FossifyOrg/Paint) - A canvas you can draw on with different colors.
+- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
+- [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
+- [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+- [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
-- [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
-- [barbeau/gpstest](https://github.com/barbeau/gpstest) - The #1 open-source Android GNSS/GPS test program
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-- [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [you-apps/CalcYou](https://github.com/you-apps/CalcYou) - Privacy focused calculator app built with MD3
-- [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
 
 ## Makefile 
 
@@ -431,9 +408,9 @@
 
 ## Nix 
 
+- [nix-community/dconf2nix](https://github.com/nix-community/dconf2nix) - :feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]
 - [bitscoper/Bitscoper_NixOS_Configuration](https://github.com/bitscoper/Bitscoper_NixOS_Configuration) - My NixOS Configuration
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
-- [bertof/nix-rice](https://github.com/bertof/nix-rice) - A library to functionally define your configuration and theme (rice) with Nix
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -450,19 +427,14 @@
 
 ## Others 
 
-- [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
-- [litespeedrepo/rpm-lsphp](https://github.com/litespeedrepo/rpm-lsphp) - 
-- [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
-- [ValveSoftware/steam-devices](https://github.com/ValveSoftware/steam-devices) - List of devices Steam and SteamVR will want read/write permissions on, to help downstream distributions create udev rules/etc
 - [bitscoper/bitscoper](https://github.com/bitscoper/bitscoper) - GitHub Profile
+- [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [AlmaLinux/container-images](https://github.com/AlmaLinux/container-images) - 
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-- [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [android/ndk](https://github.com/android/ndk) - The Android Native Development Kit
 - [DFRobot/Fritzing-library](https://github.com/DFRobot/Fritzing-library) - DFRobot Fritzing library Repo
 - [Seeed-Studio/OPL_Kicad_Library](https://github.com/Seeed-Studio/OPL_Kicad_Library) - Open Parts Library (OPL) shares the supply chain with you
-- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
@@ -476,11 +448,9 @@
 
 ## PHP 
 
-- [bitscoper/TeleChirkut](https://github.com/bitscoper/TeleChirkut) - A social network, built from scratch, for a better world
-- [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
+- [bitscoper/TeleChirkut](https://github.com/bitscoper/TeleChirkut) - 
 - [litespeedtech/lscache_wp](https://github.com/litespeedtech/lscache_wp) - LiteSpeed Cache for WordPress
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 
 ## Perl 
 
@@ -500,16 +470,13 @@
 
 ## Python 
 
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+- [bitscoper/Bitscoper_SSTV_Icecast_Broadcaster](https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster) - A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
-- [seppeljordan/nix-prefetch-github](https://github.com/seppeljordan/nix-prefetch-github) - Prefetch sources from github for nix build tool
 - [za3k/qr-backup](https://github.com/za3k/qr-backup) - Paper backup of files using QR codes
 - [zefr0x/hashes](https://github.com/zefr0x/hashes) - Simple hash algorithm identification GUI using GTK4+Adwaita.
-- [bitscoper/Bitscoper_SSTV_Icecast_Broadcaster](https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster) - A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
-- [oamg/leapp](https://github.com/oamg/leapp) - Leapp - Application & OS Modernization Framework (For in-place upgrades, follow leapp-repository)
 - [AlmaLinux/mirrors](https://github.com/AlmaLinux/mirrors) - The AlmaLinux project mirrors configuration and tools.
 - [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
@@ -519,13 +486,12 @@
 - [sdushantha/fileinfo](https://github.com/sdushantha/fileinfo) - 📄Get information on over 10,000 file extensions right from the terminal
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [cisagov/trustymail](https://github.com/cisagov/trustymail) - Scan domains and return data based on trustworthy email best practices
-- [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [eikenb/terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
 - [kassoulet/soundconverter](https://github.com/kassoulet/soundconverter) - GNOME powered sound conversion
 - [espressif/kicad-libraries](https://github.com/espressif/kicad-libraries) - KiCad libraries for Espressif SoCs, modules, and DevKits.
+- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
@@ -537,7 +503,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [caster0x00/Above](https://github.com/caster0x00/Above) - Network Security Sniffer
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
-- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks ag
@@ -556,13 +521,11 @@
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [fritzing/fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
 - [Exodus-Privacy/exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -580,21 +543,17 @@
 
 ## Rust 
 
-- [nik-rev/ferrishot](https://github.com/nik-rev/ferrishot) - A powerful screenshot app written in Rust 📸🦀
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [matkrin/md-lsp](https://github.com/matkrin/md-lsp) - Markdown language server
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [7sDream/fontfor](https://github.com/7sDream/fontfor) - Find fonts which can show a specified character and preview them in terminal or browser.
-- [imvaskel/soteria](https://github.com/imvaskel/soteria) - A GTK-based polkit authentication agent
 - [rafaelmardojai/share-preview](https://github.com/rafaelmardojai/share-preview) - Test social media cards locally
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [waycrate/waylevel](https://github.com/waycrate/waylevel) - A tool to print Wayland toplevels status and info.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -603,33 +562,24 @@
 
 ## Shell 
 
-- [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [MintArchit/gh-contribs](https://github.com/MintArchit/gh-contribs) - GitHub Contribution Graph CLI
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
-- [AlmaLinux/almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) - EL to AlmaLinux migration tool.
-- [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [AlmaLinux/raspberry-pi](https://github.com/AlmaLinux/raspberry-pi) - AlmaLinux Raspberry Pi
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [sleuthkit/scalpel](https://github.com/sleuthkit/scalpel) - Scalpel is an open source data carving tool. It is not being actively maintained.
-- [unicode-org/cldr-json](https://github.com/unicode-org/cldr-json) - JSON Data from the Unicode CLDR Project
-- [paysonwallach/fish-you-should-use](https://github.com/paysonwallach/fish-you-should-use) - A fish plugin that reminds you to use your aliases.
-- [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
-- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
-- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
 - [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it into a community-maintained catalog
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-
-## SmPL 
-
-- [evdenis/cvehound](https://github.com/evdenis/cvehound) - Check linux sources dump for known CVEs.
+- [AlmaLinux/wiki](https://github.com/AlmaLinux/wiki) - The AlmaLinux project documentation.
 
 ## Swift 
 
@@ -639,17 +589,17 @@
 ## TeX 
 
 - [bitscoper/Bitscoper_Resume](https://github.com/bitscoper/Bitscoper_Resume) - Resume of Abdullah As-Sadeed
+- [hspaans/latexmk-action](https://github.com/hspaans/latexmk-action) - GitHub Action for generating a PDF from LaTeX
 - [alobbs/macchanger](https://github.com/alobbs/macchanger) - GNU MAC Changer
 
 ## TypeScript 
 
-- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
-- [containers/podman-desktop-extension-ai-lab](https://github.com/containers/podman-desktop-extension-ai-lab) - Work with LLMs on a local environment using containers
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
@@ -664,7 +614,6 @@
 ## Vala 
 
 - [Diego-Ivan/Paper-Clip](https://github.com/Diego-Ivan/Paper-Clip) - Edit PDF document metadata
-- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [GNOME/dconf-editor](https://github.com/GNOME/dconf-editor) - Read-only mirror of https://gitlab.gnome.org/GNOME/dconf-editor
 
 ## Vue 
