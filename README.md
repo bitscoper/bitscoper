@@ -63,10 +63,7 @@
       <th rowspan="5">
         <a href="https://github.com/bitscoper/Bitscoper_CyberKit/">Bitscoper CyberKit</a>
       </th>
-      <td rowspan="5">A Flutter application offering IPv4 Subnet Scanner, mDNS Scanner, TCP Port Scanner, Route Tracer,
-        Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR
-        Code Generator, Open Graph Protocol Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever,
-        and Wi-Fi Information Viewer.</td>
+      <td rowspan="5">A Flutter application offering Bluetooth Low Energy Scanner, IPv4 Subnet Scanner, mDNS Scanner, UPnP Scanner, Route Tracer, TCP Port Scanner, Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR Code Generator, OGP Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and Wi-Fi Details Viewer.</td>
       <td rowspan="5" align="center">Dart</td>
       <td rowspan="5" align="center">Flutter</td>
       <td align="center">
