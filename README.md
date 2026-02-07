@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <th>Server Softwares</th>
-      <td> BIND, OpenLiteSpeed Web Server, NGINX, Hugo, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM,
+      <td> BIND, OpenLiteSpeed Web Server, Hugo, <b>PostgreSQL</b>, <b>MariaDB</b>, Postfix, OpenDKIM,
         Dovecot, Ollama, Icecast, MistServer, motionEye, Jellyfin, Cockpit, ISPConfig</td>
     </tr>
     <tr>
