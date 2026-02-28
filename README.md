@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <th>Containerization</th>
-      <td>Docker, Podman</td>
+      <td>Podman, Docker</td>
     </tr>
     <tr>
       <th>CI/CD</th>
@@ -26,7 +26,7 @@
       <td>
         BIND, OpenLiteSpeed Web Server, Hugo, <b>PostgreSQL</b>, <b>MariaDB</b>,
         Postfix, OpenDKIM, Dovecot, Ollama, Icecast, MistServer, motionEye,
-        Jellyfin, Cockpit, ISPConfig
+        Jellyfin, Cockpit
       </td>
     </tr>
     <tr>
