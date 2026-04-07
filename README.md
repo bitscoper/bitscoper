@@ -48,3 +48,9 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+- I previously had another account.
+- I have changed my email address and username in the past.
+- I have reuploaded my repositories before to clean up the commit history.
