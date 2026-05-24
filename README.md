@@ -54,3 +54,5 @@
 - I previously had another account.
 - I have changed my email address and username in the past.
 - I have reuploaded my repositories before to clean up the commit history.
+- I regularly manage my following list and starred repositories. I only follow and star projects I actually use, and remove them otherwise. I review them regularly and do not follow or star repositories randomly.
+- I do not fork repositories randomly. I have contributed to every repository I have forked.
