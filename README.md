@@ -26,7 +26,7 @@ bitscoper
 - **[Bitscoper CyberKit](https://github.com/bitscoper/bitscoper_cyberkit/):** A Flutter application offering Bluetooth Low Energy Scanner, IPv4 Subnet Scanner, mDNS Scanner, UPnP Scanner, Route Tracer, TCP Port Scanner, Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR Code Generator, OGP Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and Wi-Fi Details Viewer.
 - **[Bitscoper Visionscope](https://github.com/bitscoper/Bitscoper_Visionscope/):** Object Detection, Oriented Bounding Boxes (OBB) Object Detection, Object Segmentation, and Pose Detection from Image Files, Video Files, Webcams, and RTSP Streams Using Ultralytics YOLO26 in Streamlit
 - **[Bitscoper Radio](https://github.com/bitscoper/Bitscoper_Radio/):** An Icecast UI
-- **[Bitscoper Computer Museum](https://github.com/bitscoper/Bitscoper_Computer_Museum/):** A PHP-Driven Single-Page Gallery Website Showcasing Historical Computers
+- **[Bitscoper Computer Museum](https://github.com/bitscoper/Bitscoper_Computer_Museum/):** A PHP-Driven Single-Page XHTML Gallery of Historical Computers
 - **[Bitscoper SSTV Icecast Broadcaster](https://github.com/bitscoper/Bitscoper_SSTV_Icecast_Broadcaster/):** A Python project that transmits images using 19 SSTV (Slow Scan Television) modes with VOX functionality through Icecast in Ogg Opus format with dynamic mount points.
 - **[Bitscoper-WorkStation](https://github.com/bitscoper/Bitscoper-WorkStation/):** My NixOS Configuration
 - **[Bitscoper IoT](https://github.com/bitscoper/Bitscoper_IoT/):** A Versatile Internet of Things Project
