@@ -6,7 +6,9 @@ bitscoper
 
 **FOSS Developer | NixOS Enthusiast | IUTian | CMA Student**
 
-[Email](mailto:abdullah_as-sadeed.bd@protonmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub Gist](https://gist.github.com/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[Codeberg](https://codeberg.org/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft Store](https://apps.microsoft.com/search/publisher?name=Bitscoper)&nbsp;&nbsp;&nbsp;&nbsp;[AlmaLinux OS Foundation](https://wiki.almalinux.org/election2023.html#election-committee)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://github.com/bitscoper/Bitscoper_Resume/releases/)
+[GitHub](https://github.com/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[Codeberg](https://codeberg.org/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[GitLab](https://gitlab.com/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[Gitea](https://gitea.com/bitscoper/)
+
+[GitHub Gist](https://gist.github.com/bitscoper/)&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft Store](https://apps.microsoft.com/search/publisher?name=Bitscoper)&nbsp;&nbsp;&nbsp;&nbsp;[AlmaLinux OS Foundation](https://wiki.almalinux.org/election2023.html#election-committee)&nbsp;&nbsp;&nbsp;&nbsp;[Resume](https://github.com/bitscoper/Bitscoper_Resume/releases/)&nbsp;&nbsp;&nbsp;&nbsp;[Email](mailto:abdullah_as-sadeed.bd@protonmail.com)
 
 </div>
 
